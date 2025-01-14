@@ -1,6 +1,6 @@
 # App LearnTDD (Desenvolvimento Orientado por Testes).
 
-### Linguagens e Tecnologias utilizas:
+### Linguagens e Tecnologias utilizadas:
 * Java
 * JUnit
 
