@@ -1,6 +1,6 @@
 # App E-Commerce EduStore
 
-## Linguagens e Tecnologias utilizas:
+### Linguagens e Tecnologias utilizas:
 * Java
 * JUnit
 
