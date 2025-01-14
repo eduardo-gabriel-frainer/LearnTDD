@@ -1,4 +1,4 @@
-# App E-Commerce EduStore
+# App LeranTDD(Desenvolvimento Orientado por Testes)
 
 ### Linguagens e Tecnologias utilizas:
 * Java
